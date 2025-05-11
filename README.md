@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AbdullahMalik-dev
+- 👀 I’m interested in artificial intelligence, productivity tools, and creative coding  
+- 🌱 I’m currently learning neural networks and reinforcement learning  
+- 🤝 I’m looking to collaborate on beginner-friendly AI or productivity projects  
+- 📫 How to reach me: abdullah.veyron@gmail.com
+- 😄 Fun fact: I built an RL model to help stay focused while studying

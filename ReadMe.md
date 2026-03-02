@@ -17,5 +17,3 @@ I’m interested in artificial intelligence, productivity tools, and creative co
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdullahMalik-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
